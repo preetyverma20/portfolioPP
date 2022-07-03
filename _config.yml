@@ -1,0 +1,15 @@
+title: "Pragati Verma"
+email: itispragativerma@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Enthusiastic full stack web developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.
+baseurl: "https://pragativerma18.github.io/" 
+url: "/portfolio-template" 
+twitter_username: pragati_verma18
+github_username:  PragatiVerma18
+
+sass:
+  sass_dir: _sass
+
+icon: ./assets/img/icon.jpg
+
+theme: jekyll-theme-cayman
